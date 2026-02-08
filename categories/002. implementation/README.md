@@ -3,11 +3,11 @@
 
 | Checkbox | ID | Problem Name|Online Judge|Year|Contest|Difficulty Level|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<ul><li>- [ ] Done</li></ul>|1|[Greg's Workout](http://codeforces.com/problemset/problem/255/A)|Codeforces||Codeforces Round #156 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces||Codeforces Round #147 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|3|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces||Codeforces Round #146 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|4|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces||Codeforces Round #144 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|5|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces||Codeforces Round #143 (Div. 2)|1|
+|<ul><li>- [✅] Done</li></ul>|1|[Greg's Workout](http://codeforces.com/problemset/problem/255/A)|Codeforces||Codeforces Round #156 (Div. 2)|1|
+|<ul><li>- [✅] Done</li></ul>|2|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces||Codeforces Round #147 (Div. 2)|1|
+|<ul><li>- [✅] Done</li></ul>|3|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces||Codeforces Round #146 (Div. 2)|1|
+|<ul><li>- [✅] Done</li></ul>|4|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces||Codeforces Round #144 (Div. 2)|1|
+|<ul><li>- [✅] Done</li></ul>|5|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces||Codeforces Round #143 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|6|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces||Codeforces Round #142 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|7|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces||Codeforces Round #141 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|8|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces||Codeforces Round #135 (Div. 2)|1|
